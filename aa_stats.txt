@@ -1,0 +1,4 @@
+Length: 1147
+Molecular weight: 128469.93
+Alanine percentage: 0.07%
+Glycine percentage: 0.07%

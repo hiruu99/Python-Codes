@@ -1,0 +1,3 @@
+Length: 1200
+Alanine percentage: 0.06%
+Glycine percentage: 0.07%
